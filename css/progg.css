@@ -5,12 +5,12 @@
         width: 100%;
         margin-bottom: 10px;
     }
-        .progress-bar > .texts > .title {
-            float: left;
-        }
-        .progress-bar > .texts > .value {
-            float: right;
-        }
+.titles {
+    float: left;
+}
+.values {
+    float: right;
+}
     .progress-bar > .progress {
         width: 100%;
         height: 6px;
